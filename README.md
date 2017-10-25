@@ -1,1 +1,1 @@
-# Prueba
+# Proyecto paradigmas de programación
